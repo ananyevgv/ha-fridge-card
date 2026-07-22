@@ -14,7 +14,7 @@
 ## 📸 Превью
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="images/fridge.png" style="width: 450px; height: 280px; object-fit: cover; border-radius: 8px;" />
+  <img src="images/fridge.png" style="object-fit: cover; border-radius: 8px;" />
 </div>
 
 ---
